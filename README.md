@@ -1,58 +1,100 @@
 # Alex Galdino
 
-##  Economista & Cientista de Dados
+## Economista & Cientista de Dados
 
-Portfólio profissional focado em ciência de dados aplicada a finanças.
+---
 
-###  Formação
+## Sobre
+
+Economista pela USP com experiência no mercado financeiro. Especialista em análise quantitativa, Python, R e SQL. Ex-BTG Pactual e C6 Bank. Certificações CEA e CPA-20.
+
+Atualmente focado em ciência de dados aplicada a finanças, desenvolvendo modelos quantitativos e ferramentas para análise de investimentos.
+
+---
+
+## Contato
+
+- **Email:** [galdinoas3.ag@gmail.com](mailto:galdinoas3.ag@gmail.com)
+- **LinkedIn:** [linkedin.com/in/alex-galdino-ag](https://www.linkedin.com/in/alex-galdino-ag/)
+- **GitHub:** [github.com/Alex-Galdino](https://github.com/Alex-Galdino)
+- **Localização:** Indaiatuba, SP
+
+---
+
+## Projetos em Destaque
+
+### [Calculadora de Renda Fixa](https://github.com/Alex-Galdino/Calculadora-de-Renda-Fixa)
+**JavaScript**
+
+Ferramenta interativa para cálculo e comparação de investimentos em renda fixa, permitindo análise de diferentes cenários de rentabilidade.
+
+- [Ver Código](https://github.com/Alex-Galdino/Calculadora-de-Renda-Fixa)
+- [Demo ao Vivo](https://alex-galdino.github.io/Calculadora-de-Renda-Fixa)
+
+---
+
+### [Ciência de Dados Financeiros (R)](https://github.com/Alex-Galdino/ciencia-dados-financas-R)
+**R | Análise Quantitativa**
+
+Análise de características das empresas (tamanho e perfil de valor/crescimento) e sua influência nos retornos de ações durante crises financeiras.
+
+- [Ver Repositório](https://github.com/Alex-Galdino/ciencia-dados-financas-R)
+
+---
+
+### Modelo Fama-French no Mercado Brasileiro
+**Python | Análise Estatística**
+
+Pesquisa aplicando o modelo de três fatores de Fama-French ao mercado brasileiro durante a pandemia de COVID-19. Projeto de conclusão de curso em Economia (USP).
+
+- **Status:** Em desenvolvimento
+
+---
+
+## Competências Técnicas
+
+### Linguagens & Ferramentas
+- Python (pandas, numpy, scikit-learn)
+- R (tidyverse, quantmod)
+- SQL
+- JavaScript
+- Git & GitHub
+
+### Análise & Modelagem
+- Análise Quantitativa de Investimentos
+- Modelagem Estatística
+- Séries Temporais Financeiras
+- Backtesting de Estratégias
+- Visualização de Dados
+
+### Mercado Financeiro
+- Renda Fixa
+- Renda Variável
+- Análise Fundamentalista
+- Gestão de Portfólio
+- **Certificações:** CEA, CPA-20
+
+---
+
+## Formação
+
 - **Economia** - Universidade de São Paulo (USP) - Ribeirão Preto
-- **Certificações**: CEA, CPA-20
+- **Certificações:** CEA, CPA-20
 
-###  Experiência Profissional
+---
+
+## Experiência Profissional
+
 - **BTG Pactual** - Assessor de Investimentos
 - **C6 Bank** - Assessor de Investimentos
-- Gestão de portfólio de mais de R$100M
-
-###  Stack Técnico
-- **Linguagens**: Python, R, SQL, JavaScript
-- **Análise de Dados**: pandas, numpy, tidyverse, quantmod
-- **Visualização**: matplotlib, seaborn, ggplot2
-- **Machine Learning**: scikit-learn
-- **Controle de Versão**: Git, GitHub
-
-###  Áreas de Interesse
-- Análise Quantitativa de Investimentos
-- Modelagem Estatística Financeira
-- Séries Temporais
-- Gestão de Risco
-- Modelos de Precificação de Ativos
-
-###  Acesse o Portfólio
- [https://github.com/Alex-Galdino?tab=repositories)
-
-###  Contato
-- **Email**: galdinoas3.ag@gmail.com
-- **LinkedIn**: [linkedin.com/in/alex-galdino-ag](https://www.linkedin.com/in/alex-galdino-ag/)
-- **Localização**: Indaiatuba, SP
+- Gestão de portfólio de mais de **R$100M**
 
 ---
 
-###  Projetos em Destaque
+## Acesse o Portfólio
 
-#### [Calculadora de Renda Fixa](https://github.com/Alex-Galdino/Calculadora-de-Renda-Fixa)
-Ferramenta interativa para análise e comparação de investimentos em renda fixa.
-- **Tech Stack**: JavaScript, HTML, CSS
-- **Demo**: [alex-galdino.github.io/Calculadora-de-Renda-Fixa](https://alex-galdino.github.io/Calculadora-de-Renda-Fixa)
-
-#### [Ciência de Dados Financeiros (R)](https://github.com/Alex-Galdino/ciencia-dados-financas-R)
-Análise de características das empresas e sua influência nos retornos de ações durante crises.
-- **Tech Stack**: R, Análise Quantitativa
-
-#### Modelo Fama-French no Mercado Brasileiro
-Pesquisa aplicando o modelo de três fatores ao mercado brasileiro durante COVID-19.
-- **Tech Stack**: Python, Análise Estatística
-- **Status**: Em desenvolvimento
+**[alex-galdino.github.io](https://alex-galdino.github.io)**
 
 ---
 
-*Última atualização: Janeiro 2025*
+*© 2025 Alex Galdino. Desenvolvido com foco em ciência de dados aplicada a finanças.*
